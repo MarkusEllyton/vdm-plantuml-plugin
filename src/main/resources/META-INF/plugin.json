@@ -1,0 +1,6 @@
+{
+    "name": "uml",
+    "description": "Plugin that Enables PlantUML Visualizations of VDM Models",
+    "dialects": ["vdmpp", "vdmrt"],
+    "precision": "standard"
+}
