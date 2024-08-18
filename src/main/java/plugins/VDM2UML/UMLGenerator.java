@@ -320,8 +320,7 @@ public class UMLGenerator extends TCDefinitionVisitor<Object, PlantBuilder>
 		boiler.append("skinparam linetype ortho\n");
 		boiler.append("skinparam Dpi 300\n");
 		boiler.append("' skinparam backgroundColor transparent\n\n");
-		
-
+        
 		return boiler;
 	}
 }
